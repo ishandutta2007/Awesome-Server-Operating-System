@@ -49,9 +49,9 @@ The table below summarizes leading commercial server operating systems sorted by
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top-tier open-source server operating systems, storage platforms, hypervisors, and distribution projects, sorted by **GitHub Stars (Descending)**. Each star count badge links directly to the project's stargazers page:
+Below are top-tier open-source server operating systems, storage platforms, hypervisors, and distribution projects, sorted by **GitHub_Stars (Descending)**. Each Stars_Count badge links directly to the project's stargazers page:
 
-| Repository / Project | Stars | Category | Key Features & Highlights |
+| Repository / Project | GitHub_Stars | Category | Key Features & Highlights |
 | :--- | :---: | :--- | :--- |
 | **[OpenWrt](https://github.com/openwrt/openwrt)** | [<img src="https://img.shields.io/github/stars/openwrt/openwrt?style=social&color=white" alt="OpenWrt Stars" />](https://github.com/openwrt/openwrt/stargazers) | Embedded Server & Router OS | Linux operating system targeting embedded server devices and networking gateways. |
 | **[NixOS (nixpkgs)](https://github.com/nixos/nixpkgs)** | [<img src="https://img.shields.io/github/stars/nixos/nixpkgs?style=social&color=white" alt="NixOS Stars" />](https://github.com/nixos/nixpkgs/stargazers) | Declarative Server OS | Reproducible Linux distribution built on declarative configuration and atomic upgrades. |
@@ -77,7 +77,7 @@ Contributions are welcome! Follow these steps to submit additions or updates:
 
 1. **Fork** the repository.
 2. Edit `README.md` following the existing markdown table format.
-3. Ensure details (pricing, star counts, links) are verified.
+3. Ensure details (pricing, Stars_Counts, links) are verified.
 4. Submit a **Pull Request** with a clear title and description.
 
 ---
